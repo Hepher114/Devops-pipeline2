@@ -2,6 +2,8 @@
 
 This guide follows the [official Docker documentation](https://docs.docker.com/engine/install/ubuntu/) for installing Docker on an Ubuntu EC2 instance.
 
+<img width="1413" alt="Screen Shot 2025-05-28 at 5 31 39 PM" src="https://github.com/user-attachments/assets/eaeebd03-6928-4239-9dd1-8ec7759deec2" />
+
 ## Complete Installation Commands
 
 Run these commands sequentially to install Docker:
