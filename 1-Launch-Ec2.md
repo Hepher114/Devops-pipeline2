@@ -1,4 +1,4 @@
-# **AWS EC2 Instance Setup Guide for Beginners**
+# **AWS EC2 Instance Setup Guide**
 
 ## **Step-by-Step EC2 Instance Setup**
 
