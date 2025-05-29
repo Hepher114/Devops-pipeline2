@@ -17,7 +17,7 @@
 
 ### **Step 4: Choose an Instance Type**
 - Select a suitable instance type:
-  - **t3.xlarge+** (For heavier workloads)
+  - **t2.large** 
 - Click **Next**
 
 ### **Step 5: Configure Instance Details**
@@ -26,7 +26,7 @@
 - Click **Next**
 
 ### **Step 6: Add Storage**
-- Default storage: 8GB but you can change that to 30 GB as we will download a lot of container images related to the project.
+- Default storage: 30 GB
 - Click **Next**
 
 ### **Step 7: Configure Security Group**
