@@ -30,8 +30,3 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 # Verify installation
 sudo docker run hello-world
 ## Optional: Run Docker Without `sudo`
-
-To allow the `ubuntu` user to run Docker commands without needing `sudo`, add the user to the Docker group:
-
-```bash
-sudo usermod -aG docker ubuntu
