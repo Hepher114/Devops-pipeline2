@@ -11,10 +11,9 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 ```
 
 ```bash
-
-```bash
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
-```Test to ensure the version you installed is up-to-date:```
+
+Test to ensure the version you installed is up-to-date:
 ```bash
 kubectl version --client```
