@@ -1,9 +1,5 @@
 # Install Terraform on Ubuntu EC2
 [Official Terraform Installation Guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
-
-
-
-
 ---
 
 ### Add HashiCorp Repos
