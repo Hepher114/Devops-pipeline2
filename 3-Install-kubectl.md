@@ -1,6 +1,6 @@
 # Kubectl Installation on Ubuntu EC2
 
-This guide provides the quickest way to install `kubectl`, the Kubernetes command-line tool, on an Ubuntu EC2 instance. Kubectl allows you to run commands against Kubernetes clusters, deploy applications, inspect and manage cluster resources, and view logs.
+This guide provides a quick way to install `kubectl`, the Kubernetes command-line tool, on an Ubuntu EC2 instance. Kubectl allows you to run commands against Kubernetes clusters, deploy applications, inspect and manage cluster resources, and view logs.
 
 ## Installation Steps
 Following official Kubernetes documentation:  
