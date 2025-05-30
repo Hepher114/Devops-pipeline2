@@ -1,4 +1,6 @@
 # Install Terraform on Ubuntu EC2
+## Installation Steps
+Following official Kubernetes documentation:  
 [Official Terraform Installation Guide](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
 ---
 <img width="1425" alt="Screen Shot 2025-05-29 at 8 41 38 PM" src="https://github.com/user-attachments/assets/ee57150a-3c28-4875-81fb-ed7ec09f8911" />
